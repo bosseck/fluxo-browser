@@ -36,7 +36,7 @@ Android ne sera pas exécuté dans Electron : Electron n'est pas un runtime Andr
 
 ## Développement
 
-Le code source du prototype et les instructions de démarrage seront ajoutés au dépôt dans une prochaine mise à jour. Les contributions doivent suivre les consignes de sécurité et de contribution du projet.
+Le dépôt contient actuellement la documentation de fondation. Le code source du prototype Windows sera publié dans une prochaine mise à jour après vérification des fichiers et des scripts. Consulte [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) et [docs/STATUS.md](docs/STATUS.md).
 
 ## Licence
 
@@ -44,4 +44,4 @@ Licence prévue : **GNU Affero General Public License v3.0 — AGPL-3.0-only**. 
 
 ## Sécurité
 
-Ne signale pas une vulnérabilité exploitable dans une issue publique. Consulte [SECURITY.md](SECURITY.md) lorsqu'il sera présent. FLUXO est expérimental : ne l'utilise pas pour protéger des secrets ou des mots de passe importants.
+Ne signale pas une vulnérabilité exploitable dans une issue publique. Consulte [SECURITY.md](SECURITY.md). FLUXO est expérimental : ne l'utilise pas pour protéger des secrets ou des mots de passe importants.
